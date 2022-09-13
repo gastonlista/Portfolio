@@ -424,7 +424,7 @@ html {
     width: 100%;
     height: 100%;
     filter: grayscale(1);
-    transition: .5s;   
+    transition: .5s;
 }
 
 #portfolio .fila .project:hover img {
@@ -528,9 +528,11 @@ footer a {
     .redes {
         display: none;
     }
+
     nav {
         display: none;
     }
+
     nav.responsive {
         display: block;
         background-color: rgba(0, 0, 0, .8);
@@ -540,86 +542,86 @@ footer a {
         left: 0;
         padding: 10px 0;
     }
+
     nav.responsive ul {
         display: block !important;
         text-align: center;
     }
+
     nav.responsive ul li {
         margin: 5px 0;
     }
+
     #iconos-nav {
         display: block;
     }
+
     #inicio .contenido .presentacion h2 {
         font-size: 40px;
     }
+
     #aboutme {
         padding: 50px 0;
         display: block;
     }
+
     #aboutme .pic-container {
         max-width: 200px;
         margin: auto;
     }
+
     #aboutme .pic-container img {
         padding: 8px;
     }
+
     #aboutme .aboutme .title-section {
         text-align: center;
     }
+
     #aboutme .aboutme h2 {
         font-size: 25px;
         text-align: center;
     }
+
     #services {
         padding: 50px 15px;
     }
+
     #services .row {
         display: block;
     }
+
     #services .row .servs {
         margin: 10px auto;
     }
+
     .container-skills {
         padding: 50px 20px;
     }
+
     #portfolio {
         padding: 50px 0;
     }
+
     #portfolio .fila {
         display: block;
     }
+
     #portfolio .fila .project {
         margin: 10px auto;
     }
+
     #contact {
         padding: 50px 15px;
     }
+
     #contact .form-container .mitad {
         margin-bottom: 15px;
         display: block;
     }
+
     #contact .form-container .mitad input {
         width: 100%;
         margin-bottom: 15px;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
