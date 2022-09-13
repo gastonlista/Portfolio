@@ -20,7 +20,7 @@ html {
 }
 
 #inicio {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("/images/fondo-inicio.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("images/fondo-inicio.jpg");
     background-size: cover;
     background-position: center center;
     height: 100vh;
@@ -286,7 +286,7 @@ html {
 /* skills section */
 
 .container-skills {
-    background: linear-gradient(#ff0000cc, rgba(33, 16, 16, .8)), url("/images/fondo-skills.jpg");
+    background: linear-gradient(#ff0000cc, rgba(33, 16, 16, .8)), url("images/fondo-skills.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
